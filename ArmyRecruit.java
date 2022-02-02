@@ -28,6 +28,7 @@ public class ArmyRecruit {
 		}
 	}
 
+
 	// delete info from front
 	public Object delete() {
 		infoNode current = first;
